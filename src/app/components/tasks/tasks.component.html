@@ -1,2 +1,1 @@
-<p *ngFor="let task of tasks">{{ task.text }}</p>
-<h1>This is a test</h1>
+<app-task-item *ngFor="let task of tasks" [task]="task"></app-task-item>
