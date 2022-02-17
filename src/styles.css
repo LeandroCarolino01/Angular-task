@@ -20,6 +20,10 @@ body {
   padding: 30px;
   border-radius: 5px;
 }
+
+.add-form {
+  margin-bottom: 40px;
+}
 .btn {
   display: inline-block;
   background: #000;
